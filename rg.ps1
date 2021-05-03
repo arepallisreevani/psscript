@@ -1,1 +1,1 @@
-new-azresourcegroup -name "psrgpipeline" -location "eastus"
+new-azresourcegroup -name "buildreleasepipeline" -location "eastus"
